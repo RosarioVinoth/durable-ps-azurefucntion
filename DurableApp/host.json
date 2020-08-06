@@ -10,7 +10,8 @@
   },
   "extensions": {
     "durableTask": {
-      "hubName": "HCLPowerShellSampleHub"
+      "hubName": "HCLPowerShellSampleHub",
+      "localRpcEndpointEnabled": false
     }
   },
   "logging": {
