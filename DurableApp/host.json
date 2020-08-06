@@ -8,6 +8,11 @@
   "managedDependency": {
     "enabled": true
   },
+  "extensions": {
+    "durableTask": {
+      "hubName": "HCLPowerShellSampleHub"
+    }
+  },
   "logging": {
     "logLevel": {
     "default": "Debug"
